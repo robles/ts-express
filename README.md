@@ -4,6 +4,8 @@ Express api using typescript compiled by babel
 - Jest for testing
 - Typescript compiler for type checking
 
+- test update
+
 ## Project setup
 ```
 npm install
